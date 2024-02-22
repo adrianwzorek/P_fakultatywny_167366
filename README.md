@@ -1,2 +1,6 @@
 # P_fakultatywny_167366
-Przedmiot_Fakultatywny
+
+
+# Wikotr Wewersajtys
+# Adrian Wzorek  
+# Jakub Wróblewski
